@@ -1,0 +1,4 @@
+repository "TDC2@BKC_UVSC@cloud"
+  path "/"
+    br "/main"
+    co "/main"
