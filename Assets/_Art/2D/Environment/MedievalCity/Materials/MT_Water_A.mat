@@ -53,23 +53,27 @@ Material:
     - _Distortion_Scale: 500
     - _Distortion_Speed: 2.18
     - _Distotion_Force: 0.01
-    - _Float: -9.44
-    - _Foam_Amount: 1.06
-    - _Foam_Coutof: 3.84
-    - _Foam_Scale: 800
-    - _Foam_Spped: 0.0002
+    - _Float: -8.24
+    - _Foam_Amount: 0.55
+    - _Foam_Coutof: 4.55
+    - _Foam_Scale: 1000
+    - _Foam_Spped: 0.001
+    - _MistShapness: 0.03
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Ripple_Scale: 1.85
     - _Ripple_Silmeness: 17.88
+    - _SpotRadius: 0.41
     - _Transparency: 0.9
     m_Colors:
     - _Absorption_Color: {r: 0.52156866, g: 0.117148824, b: 0, a: 0}
     - _Base_Color: {r: 0.08338264, g: 0.3666719, b: 0.8553459, a: 0}
-    - _Deep_Water_Color: {r: 0.12032745, g: 0.2866817, b: 0.36792448, a: 0.7294118}
+    - _Deep_Water_Color: {r: 0, g: 0.25081, b: 0.44339618, a: 0.9490196}
     - _Foam_Color: {r: 0.6752403, g: 0.7580192, b: 0.764151, a: 1}
+    - _Mist_Color: {r: 1, g: 1, b: 1, a: 0}
     - _Ripple_Color: {r: 0.2839088, g: 0.50807023, b: 0.6226415, a: 0}
-    - _Shalow_Water_Color: {r: 0.25490168, g: 0.490196, b: 0.5490196, a: 0.6117647}
+    - _Shalow_Water_Color: {r: 0.20671645, g: 0.46403226, b: 0.6320754, a: 0.6784314}
+    - _SpotPosition: {r: 13.65, g: 0, b: 0, a: 0}
     - _Tint: {r: 1, g: 1, b: 1, a: 0}
     - _Water_Color: {r: 0.39545503, g: 0.51601446, b: 0.5849056, a: 0}
   m_BuildTextureStacks: []
