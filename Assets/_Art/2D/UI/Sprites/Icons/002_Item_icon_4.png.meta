@@ -84,7 +84,7 @@ TextureImporter:
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: 50
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -202,10 +202,10 @@ TextureImporter:
       name: 002_Item_icon_4_4
       rect:
         serializedVersion: 2
-        x: 1573
-        y: 1694
-        width: 213
-        height: 224
+        x: 1594
+        y: 1675
+        width: 182
+        height: 259
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,10 +223,10 @@ TextureImporter:
       name: 002_Item_icon_4_5
       rect:
         serializedVersion: 2
-        x: 1929
-        y: 1694
-        width: 198
-        height: 224
+        x: 1934
+        y: 1672
+        width: 179
+        height: 262
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,10 +244,10 @@ TextureImporter:
       name: 002_Item_icon_4_6
       rect:
         serializedVersion: 2
-        x: 2250
-        y: 1692
-        width: 251
-        height: 234
+        x: 2292
+        y: 1677
+        width: 181
+        height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
