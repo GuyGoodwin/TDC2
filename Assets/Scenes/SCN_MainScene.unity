@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18232971, g: 0.22493194, b: 0.28927907, a: 1}
+  m_IndirectSpecularColor: {r: 0.18377393, g: 0.2283157, b: 0.29966354, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -97,8 +97,8 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
-  m_LightingSettings: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: e4940b4d5b9748b43baed41f458a9c2d, type: 2}
+  m_LightingSettings: {fileID: 4890085278179872738, guid: e3e40f8c96d055249b9bc3be9fd4548f, type: 2}
 --- !u!196 &4
 NavMeshSettings:
   serializedVersion: 2
@@ -1856,13 +1856,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 181194496}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.1586864, y: -0.4067846, z: 0.07198335, w: 0.8967516}
+  m_LocalRotation: {x: 0.26037985, y: 0.2117465, z: 0.10469727, w: 0.9361646}
   m_LocalPosition: {x: -22.01, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 358895448}
-  m_LocalEulerAnglesHint: {x: 20.07, y: -48.8, z: 0}
+  m_LocalEulerAnglesHint: {x: 26.307, y: 30.204, z: 19.979}
 --- !u!114 &181194499
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10378,7 +10378,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 11.9
+  orthographic size: 14.6
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -10403,7 +10403,7 @@ Transform:
   m_GameObject: {fileID: 1324110986}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 25.6, y: 1, z: -12.3}
+  m_LocalPosition: {x: 7.26, y: -21.3, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
