@@ -62,9 +62,9 @@ Material:
     - _Distortion_Speed: 2.18
     - _Distotion_Force: 0.01
     - _Float: -8.24
-    - _Foam_Amount: 0.55
+    - _Foam_Amount: 0.4
     - _Foam_Coutof: 4.55
-    - _Foam_Scale: 1000
+    - _Foam_Scale: 500
     - _Foam_Spped: 0.001
     - _MistShapness: 0.03
     - _Normal: 1.06

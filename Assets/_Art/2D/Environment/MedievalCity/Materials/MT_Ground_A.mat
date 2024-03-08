@@ -80,8 +80,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_0cfb6656a79a4e0696e307701d217985_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: ee89d3dc1323f754789ca7977f120556, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Sand_Mask:
         m_Texture: {fileID: 2800000, guid: 38dd2dbe7991e4f41a76973c9b0f3a09, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Shadow_ALB:
+        m_Texture: {fileID: 2800000, guid: ee89d3dc1323f754789ca7977f120556, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2D:
@@ -135,6 +143,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _MistColor: {r: 0.7830188, g: 0.43336886, b: 0.43336886, a: 0}
+    - _Shadow_Color: {r: 0.01952058, g: 0.035321753, b: 0.13207549, a: 0.67058825}
     - _SpotPosition: {r: 0, g: 0, b: 0, a: 0}
     - _Tint: {r: 0.87985206, g: 0.96900004, b: 0.9095681, a: 0}
     - _Tint_Albedo: {r: 1, g: 1, b: 1, a: 0}
