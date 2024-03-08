@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -134,7 +134,175 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TX_Clouds_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3146
+        width: 1320
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9154737ceb48d34b959e7dba163e33a
+      internalID: -525475837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_Clouds_1
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 2922
+        width: 1371
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810a41694b4bfd46b4612bba2f71486
+      internalID: 1491627149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_Clouds_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1574
+        width: 1382
+        height: 1217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0c202d34cab324b8c4065673d992f1
+      internalID: 1689072668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_Clouds_6
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1796
+        width: 1312
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a74f1374ef236c4db2a74f116a1c46f
+      internalID: -352377389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_Clouds_14
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 1562
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2650c1ac087424cbc4ecfa17ee2d98
+      internalID: -60568185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_Clouds_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 410
+        width: 1277
+        height: 1093
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b7b0eaf40ce0f4fa4ff7ee6812aafb
+      internalID: -1418133608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_Clouds_18
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 142
+        width: 1303
+        height: 1420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c31db285665bfd4793bd7b324808f81
+      internalID: -1917690927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_Clouds_19
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 708
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470c1ac6569d9df45abcac87c905138e
+      internalID: -1276124908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +313,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TX_Clouds_0: -525475837
+      TX_Clouds_1: 1491627149
+      TX_Clouds_10: 1146468313
+      TX_Clouds_11: 869648055
+      TX_Clouds_12: 46945097
+      TX_Clouds_13: -821570051
+      TX_Clouds_14: -60568185
+      TX_Clouds_15: -1418133608
+      TX_Clouds_16: 1763822822
+      TX_Clouds_17: 1052481770
+      TX_Clouds_18: -1917690927
+      TX_Clouds_19: -1276124908
+      TX_Clouds_2: -166778379
+      TX_Clouds_20: 683000290
+      TX_Clouds_3: 1689072668
+      TX_Clouds_4: 2097530630
+      TX_Clouds_5: 2027666118
+      TX_Clouds_6: -352377389
+      TX_Clouds_7: 2002739679
+      TX_Clouds_8: -284147304
+      TX_Clouds_9: 1790961452
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
