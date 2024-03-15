@@ -265,10 +265,10 @@ TextureImporter:
       name: 002_Item_icon_4_7
       rect:
         serializedVersion: 2
-        x: 2597
-        y: 1714
-        width: 255
-        height: 185
+        x: 2595
+        y: 1677
+        width: 260
+        height: 258
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
